@@ -33,3 +33,19 @@
 + Chapter 13: Bonus: Kitty Genes
 + Chapter 14: Wrapping It Up
 + Chapter 15: Lesson 2 Complete
+
+## Lesson 3: Advanced Solidity Concepts
++ Chapter 1: Immutability of Contracts
++ Chapter 2: Ownable Contracts
++ Chapter 3: onlyOwner Function Modifier
++ Chapter 4: Gas
++ Chapter 5: Time Units
++ Chapter 6: Zombie Cooldowns
++ Chapter 7: Public Functions and Security
++ Chapter 8: More on Function Modifiers
++ Chapter 9: Zombie Modifiers
++ Chapter 10: Saving Gas with 'View' Functions
++ Chapter 11: Storage is Expensive
++ Chapter 12: For Loops
++ Chapter 13: Wrapping It Up
++ Chapter 14: Lesson 3 Complete
