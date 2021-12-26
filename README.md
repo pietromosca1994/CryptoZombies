@@ -66,18 +66,18 @@
 + Chapter 13: Lesson 4 Complete
 
 ## Lesson 5: ERC721 & Crypto-Collectibles
-+ Chapter 1: 
-+ Chapter 2: 
-+ Chapter 3:  
-+ Chapter 4:   
-+ Chapter 5:  
-+ Chapter 6: 
-+ Chapter 7: 
-+ Chapter 8:
-+ Chapter 9:
-+ Chapter 10:
-+ Chapter 11:
-+ Chapter 12:
-+ Chapter 13:
++ Chapter 1: Tokens on Ethereum
++ Chapter 2: ERC721 Standard, Multiple Inheritance
++ Chapter 3: balanceOf & ownerOf
++ Chapter 4: Refactoring
++ Chapter 5: ERC721: Transfer Logic
++ Chapter 6: ERC721: Transfer Cont'd
++ Chapter 7: ERC721: Approve
++ Chapter 8: ERC721: Approve
++ Chapter 9: Preventing Overflows
++ Chapter 10: SafeMath Part 2
++ Chapter 11: SafeMath Part 3
++ Chapter 12: SafeMath Part 4
++ Chapter 13: Comments
 + Chapter 14: 
 + Chapter 15: 

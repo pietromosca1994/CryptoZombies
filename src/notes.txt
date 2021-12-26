@@ -3,9 +3,25 @@ internal: is like private but can also be called by contracts that inherit from 
 external: can only be called outside the contract
 public: can be called anywhere, both internally and externally
 
+storage: holds data between function calls in the blockchain
+memory: temporary place to store data 
+
+require: will refund the user the rest of their gas when a function fails
+assert: will not refund the user the rest of their gas when a function fails
+
 view: tells us that by running the function, no data will be saved/changed
 pure: tells us that not only does the function not save any data to the blockchain, but it also doesn't read any data from the blockchain. 
 **Both of these don't cost any gas to call if they're called externally from outside the contract (but they do cost gas if called internally by another function)
 
 msg.sender: address
 msg.value: money payload
+
+contract ERC721 {
+  event Transfer(address indexed _from, address indexed _to, uint256 indexed _tokenId);
+  event Approval(address indexed _owner, address indexed _approved, uint256 indexed _tokenId);
+
+  function balanceOf(address _owner) external view returns (uint256);
+  function ownerOf(uint256 _tokenId) external view returns (address);
+  function transferFrom(address _from, address _to, uint256 _tokenId) external payable;
+  function approve(address _approved, uint256 _tokenId) external payable;
+}
