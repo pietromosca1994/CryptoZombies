@@ -49,3 +49,35 @@
 + Chapter 12: For Loops
 + Chapter 13: Wrapping It Up
 + Chapter 14: Lesson 3 Complete
+
+## Lesson 4: Zombie Battle System
++ Chapter 1: Payable
++ Chapter 2: Withdraws
++ Chapter 3: Zombie Battles
++ Chapter 4: Random Numbers 
++ Chapter 5: Zombie Fightin
++ Chapter 6: Refactoring Common Logic
++ Chapter 7: More Refactoring
++ Chapter 8: Back to Attack
++ Chapter 9: Zombie Wins and Losses
++ Chapter 10: Zombie Victory
++ Chapter 11: Zombie Loss
++ Chapter 12: Wrapping It Up
++ Chapter 13: Lesson 4 Complete
+
+## Lesson 5: ERC721 & Crypto-Collectibles
++ Chapter 1: 
++ Chapter 2: 
++ Chapter 3:  
++ Chapter 4:   
++ Chapter 5:  
++ Chapter 6: 
++ Chapter 7: 
++ Chapter 8:
++ Chapter 9:
++ Chapter 10:
++ Chapter 11:
++ Chapter 12:
++ Chapter 13:
++ Chapter 14: 
++ Chapter 15: 
