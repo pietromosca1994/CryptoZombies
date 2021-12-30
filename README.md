@@ -79,5 +79,19 @@
 + Chapter 11: SafeMath Part 3
 + Chapter 12: SafeMath Part 4
 + Chapter 13: Comments
-+ Chapter 14: 
-+ Chapter 15: 
++ Chapter 14: Wrapping It Up
++ Chapter 15: Lesson 5 Complete
+
+## Lesson 6: App Front-ends & Web3.js
++ Chapter 1: Intro to Web3.js
++ Chapter 2: Web3 Providers
++ Chapter 3: Talking to Contracts
++ Chapter 4: Calling Contract Functions
++ Chapter 5: Metamask & Accounts
++ Chapter 6: Displaying our Zombie Army
++ Chapter 7: Sending Transactions
++ Chapter 8: Calling Payable Functions
++ Chapter 9: Subscribing to Events
++ Chapter 10: Wrapping It Up
++ Chapter 11: Lesson 6 Complete
+
