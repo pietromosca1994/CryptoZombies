@@ -1,6 +1,7 @@
 # CryptoZombies
 
-## Lesson 1 Making the Zombie Factory
+## Solidity Path: Beginner to Intermediate Smart Contracts
+### Lesson 1 Making the Zombie Factory
 + Chapter 1: Lesson 1 Overview
 + Chapter 2: Contracts
 + Chapter 3: State Variables and Integers
@@ -17,7 +18,7 @@
 + Chapter 14: Web3.js
 + Chapter 15: Lesson 1 Complete
 
-## Lesson 2 Zombies Attack Their Victims
+### Lesson 2 Zombies Attack Their Victims
 + Chapter 1: Lesson 2 Overview
 + Chapter 2: Mappings and Addresses
 + Chapter 3: Msg.sender
@@ -34,7 +35,7 @@
 + Chapter 14: Wrapping It Up
 + Chapter 15: Lesson 2 Complete
 
-## Lesson 3: Advanced Solidity Concepts
+### Lesson 3: Advanced Solidity Concepts
 + Chapter 1: Immutability of Contracts
 + Chapter 2: Ownable Contracts
 + Chapter 3: onlyOwner Function Modifier
@@ -50,7 +51,7 @@
 + Chapter 13: Wrapping It Up
 + Chapter 14: Lesson 3 Complete
 
-## Lesson 4: Zombie Battle System
+### Lesson 4: Zombie Battle System
 + Chapter 1: Payable
 + Chapter 2: Withdraws
 + Chapter 3: Zombie Battles
@@ -65,7 +66,7 @@
 + Chapter 12: Wrapping It Up
 + Chapter 13: Lesson 4 Complete
 
-## Lesson 5: ERC721 & Crypto-Collectibles
+### Lesson 5: ERC721 & Crypto-Collectibles
 + Chapter 1: Tokens on Ethereum
 + Chapter 2: ERC721 Standard, Multiple Inheritance
 + Chapter 3: balanceOf & ownerOf
@@ -82,7 +83,7 @@
 + Chapter 14: Wrapping It Up
 + Chapter 15: Lesson 5 Complete
 
-## Lesson 6: App Front-ends & Web3.js
+### Lesson 6: App Front-ends & Web3.js
 + Chapter 1: Intro to Web3.js
 + Chapter 2: Web3 Providers
 + Chapter 3: Talking to Contracts
