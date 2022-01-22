@@ -111,4 +111,25 @@
 + Chapter 11: Delete the old pseudo-random number generator
 + Chapter 12: Lesson Complete!
 
+## Advanced Solidity Path: Get In-depth Knowledge
+### Lesson 1: Testing Smart Contracts with Truffle
++ Chapter 1: Getting Set Up
++ Chapter 2: Getting Set Up (cont'd)
++ Chapter 3: The First Test - Creating a New Zombie
++ Chapter 4: The First Test- Creating a New Zombie (cont'd)
++ Chapter 5: The First Test- Creating a New Zombie (cont'd)
++ Chapter 6: Keeping the Fun in the Game
++ Chapter 7: Keeping the Fun in the Game (cont'd)
++ Chapter 8: Zombie Transfers
++ Chapter 9: ERC721 Token Transfers- Single Step Scenario
++ Chapter 10: ERC721 Token Transfers- Two Step Scenario
++ Chapter 11: ERC721 Token Transfers- Two Step Scenario (cont'd) 
++ Chapter 12: Zombie Attacks
++ Chapter 13: More Expressive Assertions with Chai
++ Chapter 14: Testing Against Loom
++ Chapter 15: Lesson Complete!
+
+
+
+
 
